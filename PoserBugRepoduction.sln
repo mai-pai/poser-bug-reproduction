@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoserBugRepoduction", "PoserBugRepoduction.csproj", "{C41921C0-10FB-44AE-9EB5-C02424136807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41921C0-10FB-44AE-9EB5-C02424136807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41921C0-10FB-44AE-9EB5-C02424136807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41921C0-10FB-44AE-9EB5-C02424136807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41921C0-10FB-44AE-9EB5-C02424136807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {596F52B3-36C5-4484-8879-E1D8B80E942D}
+	EndGlobalSection
+EndGlobal
